@@ -1,9 +1,9 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/teezombies/teezombies/blob/main/.github/logo/tz.png?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/teezombies/teezombies/blob/main/.github/logo/tz1.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/teezombies/teezombies/blob/main/img/tz.png?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/teezombies/teezombies/blob/main/img/tz1.png?raw=true">
     <img alt="The TeeZombies mod logo"
-         src="https://github.com/teezombies/teezombies/blob/main/.github/logo/tz.png?raw=true"
+         src="https://github.com/teezombies/teezombies/blob/main/img/tz.png?raw=true"
          width="50%">
   </picture>
 
